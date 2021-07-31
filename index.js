@@ -264,10 +264,6 @@ const addEmployee = () => {
             console.log("bye now");
             connection.end();
         }
-
-        // if(cont === 1){
-          //  inquirerMenu();
-        // }
     }
     )
   }
