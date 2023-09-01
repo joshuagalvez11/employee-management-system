@@ -2,7 +2,7 @@
 # Employee Management System
 
 ## Description
-A command line application to connect to a sql database backend with tables and realtions for employees, managers, departments and roles
+A command line application to connect to a sql database backend with tables and realtions for employees, managers, departments and roles. https://drive.google.com/file/d/1GqqDawS2jqvGjHPBKy9ZnchN3-Y21yQL/view For a demo recording.
 
 ## Table of Contents
 If your README is long, add a table of contents to make it easy for users to find what they need.
